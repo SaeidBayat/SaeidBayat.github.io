@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Saeid Bayat"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Postdoc at the University of Michigan. Interested in control co-design, floating offshore wind turbines, wave energy conversion, and renewable energy systems."
+  location         : "Ann Arbor, MI"
+  employer         : "University of Michigan"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "saeidb@umich.edu" 
 
   # Academic websites
   academia         : # URL
