@@ -1,8 +1,7 @@
 ---
-layout: archive
+layout: collection
 title: "Teaching"
 permalink: /teaching/
+collection: teaching
 author_profile: true
 ---
-
-Here you can add information about your teaching experience, mentorship roles, course materials, guest lectures, etc.
