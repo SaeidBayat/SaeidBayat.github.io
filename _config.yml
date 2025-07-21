@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "my_image.jpeg"
   name             : "Saeid Bayat"
   pronouns         : # example: "she/her"  
   bio              : "Postdoc at the University of Michigan. Interested in control co-design, floating offshore wind turbines, wave energy conversion, and renewable energy systems."
