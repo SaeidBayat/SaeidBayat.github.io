@@ -7,15 +7,15 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-site_theme               : "default"
-title                    : "Saeid's  Homepage"
-title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://www.saeidbayat.com #https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+locale         : "en-US"
+site_theme     : "default"
+title          : "Saeid Bayat"
+title_separator: "-"                 # fine
+name           : &name "Saeid Bayat"    # CHANGE from "Your Name"
+description    : &description "Postdoctoral Researcher in Naval Architecture and Marine Engineering at the University of Michigan."  # UPDATE this
+url            : "https://www.saeidbayat.com"
+baseurl        : ""                  # fine if hosted at root
+repository     : "saeidbayat/saeidbayat.github.io"   # CHANGE to your own GitHub repo if it's hosted there
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
