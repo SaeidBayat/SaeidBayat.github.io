@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale         : "en-US"
 site_theme     : "default"
-title          : "Saeid Bayat"
+title          : "Saeid Bayat / Homepage"
 title_separator: "-"                 # fine
 name           : &name "Saeid Bayat"    # CHANGE from "Your Name"
 description    : &description "Postdoctoral Researcher in Naval Architecture and Marine Engineering at the University of Michigan."  # UPDATE this
