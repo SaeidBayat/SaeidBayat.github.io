@@ -11,23 +11,31 @@ redirect_from:
 
 Full CV is [here]({{ site.baseurl }}/files/Saeid_Bayat___CV.pdf)
 
-Research Interests
-======
-Control Co-Design, Floating Offshore Wind Turbines, Wave Energy Converters, Multi-Disciplinary Design Optimization, Model Predictive Control, Optimal Control, Surrogate Modeling, Machine Learning
-
 Education
 ======
-* **Postdoc in Naval Architecture and Marine Engineering**, University of Michigan, Ann Arbor, USA (2024–Now)  
-* **Ph.D. in Industrial and Enterprise Systems Engineering**, University of Illinois Urbana–Champaign, USA (2019–2024)  
-* **M.Sc. in Mechanical Engineering (Mechatronics)**, Sharif University of Technology, Tehran, Iran (2015–2018)  
-* **B.Sc. in Mechanical Engineering**, Iran University of Science and Technology, Tehran, Iran (2011–2015)
+* Postdoc in Naval Architecture and Marine Engineering, University of Michigan, Ann Arbor, USA (2024–Now)  
+* Ph.D. in Industrial and Enterprise Systems Engineering, University of Illinois Urbana–Champaign, USA (2019–2024)  
+* M.Sc. in Mechanical Engineering (Mechatronics), Sharif University of Technology, Tehran, Iran (2015–2018)  
+* B.Sc. in Mechanical Engineering, Iran University of Science and Technology, Tehran, Iran (2011–2015)
+
+Research Interests
+======
+* Control co-design  
+* Multidisciplinary design optimization  
+* Renewable energy systems  
+* AI-based design  
+* Data-driven modeling and surrogate modeling  
+* Mechatronics  
+* Embedded systems  
+* Hardware-in-the-loop testing and experiments
+
 
 Selected Publications
 ======
 * Lee, **Saeid Bayat**, and Allison (2025).  
   “Wind turbine control co‑design using dynamic system derivative function surrogate model (DFSM) based on OpenFAST linearization.”  
   *Applied Energy*, 396:126203.  
-  [🔗 Link](https://www.sciencedirect.com/science/article/pii/S030626192500933X)
+  [🔗 Link](https://www.sciencedirect.com/science/article/abs/pii/S030626192500933X)
 
 * **Saeid Bayat** and Allison (2025).  
   “Impact of control strategies on the control co‑design of spar floating offshore wind turbines.”  
@@ -72,11 +80,11 @@ Teaching
 Awards
 ======
 * **Best Student Paper Award**, ASME IDETC/CIE 2025  
-* **Rank 1 in M.Sc. Class**, Sharif University (2018)  
+* **Rank 5 among ~100 in B.Sc. Class**, Iran University of Science and Technology (2015)
 * **Elite Student Recognition**, Iran Univ. of Science & Tech. (2012, 2014)
 
 References
 ======
+* **Prof. James T. Allison** – UIUC ([jtalliso@illinois.edu](mailto:jtalliso@illinois.edu)) 
 * **Prof. Lei Zuo** – University of Michigan ([leizuo@umich.edu](mailto:leizuo@umich.edu))  
-* **Prof. James T. Allison** – UIUC ([jtalliso@illinois.edu](mailto:jtalliso@illinois.edu))  
 * **Dr. Yong Hoon Lee** – University of Memphis ([yhlee@memphis.edu](mailto:yhlee@memphis.edu))
