@@ -8,11 +8,17 @@ redirect_from:
   - /about.html
 ---
 
+<p style="text-align: justify;">
 I am Saeid Bayat, a Postdoctoral Research Fellow at the [University of Michigan](https://umich.edu/) in the Department of Naval Architecture and Marine Engineering, working under the supervision of Prof. Lei Zuo. My research focuses on control co-design (CCD) and multidisciplinary design optimization for renewable energy systems, with applications in floating offshore wind turbines and wave energy converters. 
+</p>
 
+<p style="text-align: justify;">
 I earned my Ph.D. in Industrial & Enterprise Systems Engineering from the University of Illinois Urbana–Champaign (UIUC), advised by Prof. James T. Allison, where I worked on integrating optimization, advanced control, and physical system modeling to improve the performance of complex engineered systems.
+</p>
 
+<p style="text-align: justify;">
 Broadly, my work spans control co-design, renewable energy system design, AI-based and surrogate-assisted modeling, mechatronics and embedded systems, and hardware-in-the-loop testing. I enjoy developing computational frameworks and experimental validation approaches that connect control, dynamics, and physical hardware to enable more efficient and resilient clean energy technologies.
+</p>
 
 Here is my [CV](https://saeidbayat.com/cv) and feel free to [contact me](mailto:saeidb@umich.edu) for collaboration or opportunities.
 
