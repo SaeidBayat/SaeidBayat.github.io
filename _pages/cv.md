@@ -29,38 +29,47 @@ Research Interests
 * Embedded systems  
 * Hardware-in-the-loop testing and experiments
 
+Awards
+======
+* **Best Student Paper Award**, ASME IDETC/CIE 2025  
+* **Rank 5 among ~100 in B.Sc. Class**, Iran University of Science and Technology (2015)
+* **Elite Student Recognition**, Iran Univ. of Science & Tech. (2012, 2014)
 
 Selected Publications
 ======
-* Lee, **Saeid Bayat**, and Allison (2025).  
+* **Saeid Bayat**, Shahmansouri, Peddada, Tessier, Butscher, and Allison (2025).  
+  “Can Graph Neural Networks Help Identify Promising Thermal Management System Architectures Among Vast Numbers of Possibilities?”  
+  *Journal of Mechanical Design*.  
+  [🔗 Link](https://asmedigitalcollection.asme.org/mechanicaldesign/article/doi/10.1115/1.4069829/1222201)
+
+* Yonghoon Lee, **Saeid Bayat**, and Allison (2025).  
   “Wind turbine control co‑design using dynamic system derivative function surrogate model (DFSM) based on OpenFAST linearization.”  
   *Applied Energy*, 396:126203.  
   [🔗 Link](https://www.sciencedirect.com/science/article/abs/pii/S030626192500933X)
 
-* **Saeid Bayat** and Allison (2025).  
-  “Impact of control strategies on the control co‑design of spar floating offshore wind turbines.”  
-  *Ocean Engineering*, 336:121763.  
-  [🔗 Link](https://www.sciencedirect.com/science/article/pii/S0029801825014696)
+* **Saeid Bayat** and James T. Allison (2025).  
+  “Control Co-Design with Varying Available Information Applied to Vehicle Suspensions.”  
+  *Journal of Dynamic Systems, Measurement, and Control* (Accepted).  
+  [🔗 Link](https://asmedigitalcollection.asme.org/dynamicsystems/article-abstract/148/1/011013/1222682/Control-Co-Design-With-Varying-Available?redirectedFrom=PDF)
 
-* Lee, **Saeid Bayat**, Allison, Hossain, and Griffith (2025).  
-  “Multidisciplinary modeling and control co‑design of a floating offshore vertical‑axis wind turbine system.”  
-  *Journal of Mechanical Design*, 147(6):061702.  
-  [🔗 Link](https://asmedigitalcollection.asme.org/mechanicaldesign/article/147/6/061702/1213031/Multidisciplinary-Modeling-and-Control-Co-Design)
-
-* **Saeid Bayat**, Lee, and Allison (2025).  
-  “Nested control co‑design of a spar buoy horizontal‑axis floating offshore wind turbine.”  
-  *Ocean Engineering*, 328:121037.  
-  [🔗 Link](https://www.sciencedirect.com/science/article/pii/S0029801825007504)
-
+* **Saeid Bayat** and Lei Zuo (2025).  
+  “Multidisciplinary Control Co-Design of a Spar–Torus Hybrid Wind–Wave Energy System.”  
+  *Journal of Mechanical Design*.  
+  [🔗 Link](https://asmedigitalcollection.asme.org/mechanicaldesign/article/doi/10.1115/1.4070400/1228297)
 
 Professional Experience
 ======
 * **Postdoctoral Research Fellow**, MaRInE Lab, University of Michigan (2024–Now)  
-  Focus on control co-design for hybrid wind–wave energy systems and proposal development.  
-* **Research Assistant**, Engineering System Design Lab, UIUC (2019–2024)  
-  Specialized in CCD, surrogate modeling, and MPC.  
-* **Research Assistant**, Nano Robotics Lab, Sharif University (2015–2018)  
-* **Research Assistant**, IDAS Lab, Iran University of Science and Technology (2011–2015)
+  Research in hybrid wind–wave energy systems, control co-design, simulation and HIL testing; contribute to NSF/DOE/ONR proposals and mentor students.
+
+* **Research Assistant**, Engineering System Design Lab (ESDL), UIUC (2019–2024)  
+  Developed CCD frameworks, surrogate and AI-based models, and optimization methods for complex mechanical and renewable energy systems.
+
+* **Research Assistant**, Nano Robotics Laboratory, Sharif University of Technology (2015–2018)  
+  Designed and controlled an XY nano-positioning stage; implemented neural/fuzzy/ANFIS observers and real-time embedded control systems.
+
+* **Research Assistant**, Intelligent, Autonomous and Distributed Systems (IDAS) Lab, Iran University of Science and Technology (2011–2015)  
+  Worked on bio-payload recovery CanSat design including mechanical structure, sensing, actuation, and system integration.
 
 Skills
 ======
@@ -76,12 +85,6 @@ Teaching
 * Digital Control Systems (UIUC, 2023)  
 * Mechatronic Systems (Sharif Univ., 2017–2018)  
 * MATLAB Software (IUST, 2014)
-
-Awards
-======
-* **Best Student Paper Award**, ASME IDETC/CIE 2025  
-* **Rank 5 among ~100 in B.Sc. Class**, Iran University of Science and Technology (2015)
-* **Elite Student Recognition**, Iran Univ. of Science & Tech. (2012, 2014)
 
 References
 ======
