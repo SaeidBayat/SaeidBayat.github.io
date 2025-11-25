@@ -12,8 +12,8 @@ main:
   - title: "Short CV"
     url: /cv/
     
-#  - title: "Projects"
-#    url: /portfolio/
+  - title: "Projects"
+    url: /portfolio/
     
 #  - title: "Blog Posts"
 #    url: /year-archive/

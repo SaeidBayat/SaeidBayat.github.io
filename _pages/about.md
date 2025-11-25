@@ -17,17 +17,16 @@ Broadly, my work spans control co-design, renewable energy system design, AI-bas
 Here is my [CV](https://saeidbayat.com/cv) and feel free to [contact me](mailto:saeidb@umich.edu) for collaboration or opportunities.
 
 > ### News
-> - **Nov '25**: Our paper titled *“Design of Experiments-Based Analysis of a Hybrid Wind–Wave Energy System With a Spar-Torus Combination”* is **accepted for publication** in the **ASME Journal of Mechanical Design (JMD)**.
+> - **Nov '25**: Our paper titled *“Design of Experiments-Based Analysis of a Hybrid Wind–Wave Energy System With a Spar-Torus Combination”* is **published** in the **ASME Journal of Mechanical Design (JMD)**.
 > - **Jul '25**: Our paper titled *“Development of a Scaled Hydrofoil-Based Marine Energy Converter: Design, Modeling, and Parametric Optimization”* won **1st Place Best Student Paper Award** at the ASME IDETC2025 VIB Conference in Anaheim.
 > - **Jun '25**: Our manuscript *“Impact of Control Strategies on the Control Co-Design of Spar Floating Offshore Wind Turbines”* is published in **Ocean Engineering**.
-> - **May '25**: Our paper *“Wind turbine control co-design using dynamic system derivative function surrogate model (DFSM) based on OpenFAST linearization”* is published in **Applied Energy**.
 
 <details>
   <summary>Older News</summary>
 <ul>
+<li><b>May '25</b>: Our paper <i>“Wind turbine control co-design using dynamic system derivative function surrogate model (DFSM) based on OpenFAST linearization”</i> was published in <b>Applied Energy</b>.</li>
 <li><b>Mar '25</b>: Our paper <i>“Nested Control Co-Design of a Spar Buoy Horizontal-Axis Floating Offshore Wind Turbine”</i> was published in <b>Ocean Engineering</b>.</li>
 <li><b>Feb '25</b>: Our paper <i>“Extracting Design Information From Optimized Designs of Power Flow Systems: Application to Multisplit Thermal Management System Configuration”</i> was published in the <b>Journal of Mechanical Design (JMD)</b>.</li>
-<li><b>Jan '25</b>: Our paper *“Multi-Split Configuration Design for Fluid-Based Thermal Management Systems”* was published in **Journal of Mechanical Design**.</li>
 </ul>  
 
 </details>
