@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p style="text-align: justify;">
-I am Saeid Bayat, a Postdoctoral Research Fellow at the University of Michigan-Ann Arborup in the Department of Naval Architecture and Marine Engineering, working under the supervision of Prof. Lei Zuo. My research focuses on control co-design (CCD) and multidisciplinary design optimization for renewable energy systems, with applications in floating offshore wind turbines and wave energy converters. 
+I am Saeid Bayat, a Postdoctoral Research Fellow at the University of Michigan-Ann Arbor in the Department of Naval Architecture and Marine Engineering, working under the supervision of Prof. Lei Zuo. My research focuses on control co-design (CCD) and multidisciplinary design optimization for renewable energy systems, with applications in floating offshore wind turbines and wave energy converters. 
 </p>
 
 <p style="text-align: justify;">
