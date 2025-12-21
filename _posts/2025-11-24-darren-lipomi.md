@@ -1,5 +1,5 @@
 ---
-title: "Why Every Young Researcher Should Watch Darren Lipomi"
+title: "Why Every Young Researcher Should Watch Darren Lipomi's Talks"
 date: 2025-11-24
 permalink: /posts/2025/11/darren-lipomi/
 tags:
