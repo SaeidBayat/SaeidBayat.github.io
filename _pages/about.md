@@ -23,6 +23,7 @@ Broadly, my work spans control co-design, renewable energy system design, AI-bas
 Here is my [CV](https://saeidbayat.com/cv) and feel free to [contact me](mailto:saeidb@umich.edu) for collaboration or opportunities.
 
 > ### News
+> - **Dec '25**: Our paper titled *“Modeling and Dynamic Simulation of a Hybrid Floating Wind–Wave Platform With Integrated Flap-Type Wave Energy Converters”* is **published** in **Ocean Engineering**.
 > - **Nov '25**: Our paper titled *“Design of Experiments-Based Analysis of a Hybrid Wind–Wave Energy System With a Spar-Torus Combination”* is **published** in the **ASME Journal of Mechanical Design (JMD)**.
 > - **Jul '25**: Our paper titled *“Development of a Scaled Hydrofoil-Based Marine Energy Converter: Design, Modeling, and Parametric Optimization”* won **1st Place Best Student Paper Award** at the ASME IDETC2025 VIB Conference in Anaheim.
 > - **Jun '25**: Our manuscript *“Impact of Control Strategies on the Control Co-Design of Spar Floating Offshore Wind Turbines”* is published in **Ocean Engineering**.
