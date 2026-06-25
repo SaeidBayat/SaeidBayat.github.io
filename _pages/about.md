@@ -23,17 +23,16 @@ Broadly, my work spans control co-design, renewable energy system design, AI-bas
 Here is my [CV](https://saeidbayat.com/cv) and feel free to [contact me](mailto:saeidb@umich.edu) for collaboration or opportunities.
 
 > ### News
+> - **Jun '26**: Our University of Michigan wave energy research on **Beaver Island** was featured by **UpNorthLive**, **Bridge Michigan**, and **Grist**.
+> - **Apr '26**: Our team won the **U.S. Department of Energy (DOE) Power at Sea Prize – DEVELOP Phase**, receiving a **$75,000 award** to advance offshore renewable energy technologies.
+> - **Apr '26**: Our research on a **hybrid floating wind–wave energy platform** was featured by **The Science Matters**.
 > - **Dec '25**: Our paper titled *“Modeling and Dynamic Simulation of a Hybrid Floating Wind–Wave Platform With Integrated Flap-Type Wave Energy Converters”* is **published** in **Ocean Engineering**.
-> - **Nov '25**: Our paper titled *“Design of Experiments-Based Analysis of a Hybrid Wind–Wave Energy System With a Spar-Torus Combination”* is **published** in the **ASME Journal of Mechanical Design (JMD)**.
-> - **Jul '25**: Our paper titled *“Development of a Scaled Hydrofoil-Based Marine Energy Converter: Design, Modeling, and Parametric Optimization”* won **1st Place Best Student Paper Award** at the ASME IDETC2025 VIB Conference in Anaheim.
-> - **Jun '25**: Our manuscript *“Impact of Control Strategies on the Control Co-Design of Spar Floating Offshore Wind Turbines”* is published in **Ocean Engineering**.
 
-<details>
-  <summary>Older News</summary>
-<ul>
-<li><b>May '25</b>: Our paper <i>“Wind turbine control co-design using dynamic system derivative function surrogate model (DFSM) based on OpenFAST linearization”</i> was published in <b>Applied Energy</b>.</li>
-<li><b>Mar '25</b>: Our paper <i>“Nested Control Co-Design of a Spar Buoy Horizontal-Axis Floating Offshore Wind Turbine”</i> was published in <b>Ocean Engineering</b>.</li>
-<li><b>Feb '25</b>: Our paper <i>“Extracting Design Information From Optimized Designs of Power Flow Systems: Application to Multisplit Thermal Management System Configuration”</i> was published in the <b>Journal of Mechanical Design (JMD)</b>.</li>
+<details> <summary>Older News</summary> <ul> <li><b>Nov '25</b>: Our paper <i>“Design of Experiments-Based Analysis of a Hybrid Wind–Wave Energy System With a Spar-Torus Combination”</i> was published in the <b>Journal of Mechanical Design (JMD)</b>.</li>
+
+<li><b>Jul '25</b>: Our paper <i>“Development of a Scaled Hydrofoil-Based Marine Energy Converter: Design, Modeling, and Parametric Optimization”</i> received the <b>1st Place Best Student Paper Award</b> at the ASME IDETC/CIE 2025 VIB Conference in Anaheim.</li>
+
+<li><b>Jun '25</b>: Our paper <i>“Impact of Control Strategies on the Control Co-Design of Spar Floating Offshore Wind Turbines”</i> was published in <b>Ocean Engineering</b>.</li>
 </ul>  
 
 </details>
