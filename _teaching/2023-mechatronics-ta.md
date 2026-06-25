@@ -6,7 +6,7 @@ permalink: /teaching/2023-mechatronics-ta
 venue: "University of Illinois Urbana–Champaign, Industrial & Enterprise Systems Engineering"
 date: 2023-01-01
 location: "Urbana, IL, USA"
-excerpt: "<br/><img src='/images/teaching_mechatronics_2024.png' style='max-width:900px;'>"
+excerpt: ""
 ---
 
 ### Role
