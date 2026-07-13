@@ -6,10 +6,14 @@ author_profile: true
 show_title: false
 ---
 
-## Control Co-Design
+## Control Co-Design — Elective Course
 
-I created these open course notes from my work at the intersection of dynamics, control, and engineering design. Students often encounter these subjects in separate courses, even though a change to a physical system can alter what its controller can achieve. Control co-design makes that connection explicit by treating the physical system and its controller as parts of the same design problem.
+<a href="https://www.saeidbayat.com/control-co-design-notes/" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/SaeidBayat/control-co-design-notes/main/assets/control-co-design-overview.svg" alt="Control co-design course overview showing the integration of physical and control-system design" style="width:100%; margin:0.5rem 0 1rem; border:1px solid #b8cad6; border-radius:12px;">
+</a>
 
-The course begins with the mathematical foundations, then builds through dynamic modeling, feedback, and engineering optimization toward a unified control co-design formulation. Worked examples, computational notebooks, and interactive material ask learners to calculate, simulate, compare designs, and examine the consequences of their assumptions—not simply read about the methods.
+I developed this elective course for senior undergraduate and graduate engineering students. It is intended for students who have studied dynamics, control, or optimization separately and are ready to examine how decisions about a physical system change what its controller can achieve—and how control requirements can reshape the physical design.
 
-[Explore the course notes](https://www.saeidbayat.com/control-co-design-notes/){: .btn .btn--primary}
+The course progresses from mathematical foundations through dynamic-system modeling, feedback control, and engineering optimization to unified control co-design formulations. Through worked examples, computational notebooks, and multidisciplinary applications, students analyze plant–controller tradeoffs, compare design architectures, and test how modeling assumptions influence an optimized system.
+
+<a href="https://www.saeidbayat.com/control-co-design-notes/" target="_blank" rel="noopener noreferrer" class="btn btn--primary">Explore the course notes <span aria-hidden="true">↗</span></a>
