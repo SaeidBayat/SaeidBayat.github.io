@@ -3,9 +3,8 @@ layout: archive
 title: "Courses"
 permalink: /courses/
 author_profile: true
+show_title: false
 ---
-
-While teaching mechatronics and digital control at the University of Illinois Urbana–Champaign, I saw students gain confidence when an abstract result became something they could test: a simulated response, a tuned controller, a sensor measurement, or an autonomous robot that finally behaved as intended. Those experiences shaped how I organize a course—begin with why an idea matters, develop it carefully, and then give students a way to use it.
 
 ## Control Co-Design
 
