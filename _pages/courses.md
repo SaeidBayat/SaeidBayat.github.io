@@ -9,7 +9,7 @@ show_title: false
 ## Control Co-Design — Elective Course
 
 <a href="https://www.saeidbayat.com/CCD_notes/" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/SaeidBayat/control-co-design-notes/main/assets/control-co-design-overview.svg" alt="Control co-design course overview showing the integration of physical and control-system design" style="width:100%; margin:0.5rem 0 1rem; border:1px solid #b8cad6; border-radius:12px;">
+  <img src="https://raw.githubusercontent.com/SaeidBayat/CCD_notes/main/assets/control-co-design-overview.svg" alt="Control co-design course overview showing the integration of physical and control-system design" style="width:100%; margin:0.5rem 0 1rem; border:1px solid #b8cad6; border-radius:12px;">
 </a>
 
 I developed this elective course for senior undergraduate and graduate engineering students. It is intended for students who have studied dynamics, control, or optimization separately and are ready to examine how decisions about a physical system change what its controller can achieve—and how control requirements can reshape the physical design.
