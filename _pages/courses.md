@@ -9,7 +9,7 @@ show_title: false
 # Courses
 
 1. [Control Co-Design](#1-control-co-design) — integrated physical-system and controller design
-2. [Optimal Control](#2-optimal-control) — theory, numerical methods, feedback, and engineering applications
+2. [Optimal Control](#2-optimal-control) — theory, numerical methods, and engineering applications
 
 ---
 
@@ -31,6 +31,6 @@ The course progresses from mathematical foundations through dynamic-system model
   <img src="https://raw.githubusercontent.com/SaeidBayat/optimal-control-notes/main/assets/cover_image.png" alt="Optimal Control course cover showing foundational theory, numerical methods, trajectories, and engineering applications" style="width:35%; max-width:100%; display:block; margin:0.5rem 0 1rem; border:1px solid #b8cad6; border-radius:12px;">
 </a>
 
-This course presents optimal control as a coherent framework for designing control inputs and system trajectories that satisfy dynamic equations, respect practical constraints, and optimize meaningful engineering objectives. It connects mathematical theory, numerical solution methods, feedback implementation, and engineering interpretation.
+This course is designed for graduate engineering students with a background in dynamics, control, or optimization. It presents optimal control as a coherent framework for designing control inputs and system trajectories that satisfy dynamic equations, respect practical constraints, and optimize meaningful engineering objectives. It connects mathematical theory, numerical solution methods, and engineering interpretation.
 
-The notes cover variational methods, Pontryagin’s minimum principle, linear–quadratic control, direct transcription and collocation, pseudospectral methods, costate recovery, path constraints, dynamic programming, feedback, solution verification, and engineering applications. Reproducible examples and visual explanations emphasize both mathematical rigor and practical implementation.
+The notes cover variational methods, Pontryagin’s minimum principle, linear–quadratic control, direct transcription and collocation, pseudospectral methods, costate recovery, path constraints, dynamic programming, solution verification, and engineering applications. Reproducible examples and visual explanations emphasize both mathematical rigor and practical implementation.
