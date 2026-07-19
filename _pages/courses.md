@@ -6,7 +6,18 @@ author_profile: true
 show_title: false
 ---
 
-## Control Co-Design
+# Courses
+
+These open course-note collections connect control theory, dynamic-system modeling, and engineering optimization with practical computational methods and applications.
+
+## Course Outline
+
+1. [Control Co-Design](#1-control-co-design) — integrated physical-system and controller design
+2. [Optimal Control](#2-optimal-control) — theory, numerical methods, feedback, and engineering applications
+
+---
+
+## 1. Control Co-Design
 
 <a href="https://www.saeidbayat.com/CCD_notes/" target="_blank" rel="noopener noreferrer">
   <img src="https://raw.githubusercontent.com/SaeidBayat/CCD_notes/main/assets/control-co-design-overview.svg" alt="Control co-design course overview showing the integration of physical and control-system design" style="width:50%; max-width:100%; display:block; margin:0.5rem 0 1rem; border:1px solid #b8cad6; border-radius:12px;">
@@ -18,7 +29,9 @@ The course progresses from mathematical foundations through dynamic-system model
 
 <a href="https://www.saeidbayat.com/CCD_notes/" target="_blank" rel="noopener noreferrer" class="btn btn--primary">Explore the course notes <span aria-hidden="true">↗</span></a>
 
-## Optimal Control
+---
+
+## 2. Optimal Control
 
 <a href="https://www.saeidbayat.com/optimal-control-notes/" target="_blank" rel="noopener noreferrer">
   <img src="https://raw.githubusercontent.com/SaeidBayat/optimal-control-notes/main/assets/cover_image.png" alt="Optimal Control course cover showing foundational theory, numerical methods, trajectories, and engineering applications" style="width:35%; max-width:100%; display:block; margin:0.5rem 0 1rem; border:1px solid #b8cad6; border-radius:12px;">
