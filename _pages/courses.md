@@ -8,10 +8,6 @@ show_title: false
 
 # Courses
 
-These open course-note collections connect control theory, dynamic-system modeling, and engineering optimization with practical computational methods and applications.
-
-## Course Outline
-
 1. [Control Co-Design](#1-control-co-design) — integrated physical-system and controller design
 2. [Optimal Control](#2-optimal-control) — theory, numerical methods, feedback, and engineering applications
 
