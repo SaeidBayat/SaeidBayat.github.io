@@ -13,7 +13,7 @@ show_title: false
 
 ---
 
-## 1. Control Co-Design
+<h2 id="1-control-co-design">1. Control Co-Design <a href="https://www.saeidbayat.com/CCD_notes/" target="_blank" rel="noopener noreferrer" class="btn btn--primary" style="margin-left:0.5rem; vertical-align:middle;">Explore the course notes <span aria-hidden="true">↗</span></a></h2>
 
 <a href="https://www.saeidbayat.com/CCD_notes/" target="_blank" rel="noopener noreferrer">
   <img src="https://raw.githubusercontent.com/SaeidBayat/CCD_notes/main/assets/control-co-design-overview.svg" alt="Control co-design course overview showing the integration of physical and control-system design" style="width:50%; max-width:100%; display:block; margin:0.5rem 0 1rem; border:1px solid #b8cad6; border-radius:12px;">
@@ -23,11 +23,9 @@ I developed this elective course for senior undergraduate and graduate engineeri
 
 The course progresses from mathematical foundations through dynamic-system modeling, feedback control, and engineering optimization to unified control co-design formulations. Through worked examples, computational notebooks, and multidisciplinary applications, students analyze plant–controller tradeoffs, compare design architectures, and test how modeling assumptions influence an optimized system.
 
-<a href="https://www.saeidbayat.com/CCD_notes/" target="_blank" rel="noopener noreferrer" class="btn btn--primary">Explore the course notes <span aria-hidden="true">↗</span></a>
-
 ---
 
-## 2. Optimal Control
+<h2 id="2-optimal-control">2. Optimal Control <a href="https://www.saeidbayat.com/optimal-control-notes/" target="_blank" rel="noopener noreferrer" class="btn btn--primary" style="margin-left:0.5rem; vertical-align:middle;">Explore the course notes <span aria-hidden="true">↗</span></a></h2>
 
 <a href="https://www.saeidbayat.com/optimal-control-notes/" target="_blank" rel="noopener noreferrer">
   <img src="https://raw.githubusercontent.com/SaeidBayat/optimal-control-notes/main/assets/cover_image.png" alt="Optimal Control course cover showing foundational theory, numerical methods, trajectories, and engineering applications" style="width:35%; max-width:100%; display:block; margin:0.5rem 0 1rem; border:1px solid #b8cad6; border-radius:12px;">
@@ -36,5 +34,3 @@ The course progresses from mathematical foundations through dynamic-system model
 This course presents optimal control as a coherent framework for designing control inputs and system trajectories that satisfy dynamic equations, respect practical constraints, and optimize meaningful engineering objectives. It connects mathematical theory, numerical solution methods, feedback implementation, and engineering interpretation.
 
 The notes cover variational methods, Pontryagin’s minimum principle, linear–quadratic control, direct transcription and collocation, pseudospectral methods, costate recovery, path constraints, dynamic programming, feedback, solution verification, and engineering applications. Reproducible examples and visual explanations emphasize both mathematical rigor and practical implementation.
-
-<a href="https://www.saeidbayat.com/optimal-control-notes/" target="_blank" rel="noopener noreferrer" class="btn btn--primary">Explore the course notes <span aria-hidden="true">↗</span></a>
