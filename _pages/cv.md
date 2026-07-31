@@ -112,6 +112,7 @@ Professional Service
 Media Coverage
 ======
 
+* [**The Guardian**](https://www.theguardian.com/environment/2026/jul/09/remote-island-wave-power-energy-security-beaver-island-lake-michigan) — “Experimental Bathtub: The Remote Lake Island Trying Wave Power to Boost Energy Security”
 * **UpNorthLive** — “Could Lake Michigan Waves Help Power Beaver Island?”
 * **Grist** — “This Island in the Great Lakes Wants to Tap Waves for Energy”
 * **Bridge Michigan** — “Michigan Island Needs Reliable Power. Can Great Lakes Waves Provide It?”
