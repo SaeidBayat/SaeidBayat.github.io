@@ -23,6 +23,8 @@ Broadly, my work spans control co-design, renewable energy system design, AI-bas
 Here is my [CV](https://saeidbayat.com/cv) and feel free to [contact me](mailto:saeidb@umich.edu) for collaboration or opportunities.
 
 > ### News
+> - **Jul '26**: Our **Beaver Island wave-energy demonstration** was featured in [**The Guardian**](https://lnkd.in/gJ5JJyvD), highlighting the potential of wave power to strengthen energy resilience in remote communities.
+> - **Jul '26**: My new paper, *“Data-Driven Surrogate Modeling for Frequency-Domain Boundary-Element Analysis,”* was published in **Ocean Engineering**. This work rapidly predicts hydrodynamic coefficients directly from geometry, reducing repeated simulations and enabling faster design and optimization of marine energy systems.
 > - **Jun '26**: Our University of Michigan wave energy research on **Beaver Island** was featured by **UpNorthLive**, **Bridge Michigan**, and **Grist**.
 > - **Apr '26**: Our team won the **U.S. Department of Energy (DOE) Power at Sea Prize – DEVELOP Phase**, receiving a **$75,000 award** to advance offshore renewable energy technologies.
 > - **Apr '26**: Our research on a **hybrid floating wind–wave energy platform** was featured by **The Science Matters**.
