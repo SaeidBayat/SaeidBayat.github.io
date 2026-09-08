@@ -23,6 +23,7 @@ Broadly, my work spans control co-design, renewable energy system design, AI-bas
 Here is my [CV](https://saeidbayat.com/cv) and feel free to [contact me](mailto:saeidb@umich.edu) for collaboration or opportunities.
 
 > ### News
+> - **2026**: Selected as a **Rising Star** for the ASME Dynamic Systems and Control Division (DSCD) Rising Stars Invited Talks at **MECC 2026** in Tempe, Arizona, where I will deliver an invited talk, *“Control Co-Design of Hybrid Floating Wind–Wave Energy Systems.”*
 > - **Jul '26**: Our **Beaver Island wave-energy demonstration** was featured in [**The Guardian**](https://www.theguardian.com/environment/2026/jul/09/remote-island-wave-power-energy-security-beaver-island-lake-michigan).
 > - **Jul '26**: My new paper, *“Data-Driven Surrogate Modeling for Frequency-Domain Boundary-Element Analysis,”* was published in **Ocean Engineering**.
 > - **Jun '26**: Our University of Michigan wave energy research on **Beaver Island** was featured by **UpNorthLive**, **Bridge Michigan**, and **Grist**.
